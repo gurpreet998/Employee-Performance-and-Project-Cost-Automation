@@ -86,7 +86,7 @@ pip install pandas numpy
 - VS Code with Python Extension
 
 ### Running the Notebook:
-Open `Employee_Performance_Analysis.ipynb` in Jupyter and execute step-by-step.
+Open `Python_Capstone_Gurpreet_Singh.ipynb` in Jupyter and execute step-by-step.
 
 ---
 
