@@ -90,14 +90,18 @@ Open `Python_Capstone_Gurpreet_Singh.ipynb` in Jupyter and execute step-by-step.
 
 ---
 
-## 👨‍💻 About Me
+## 📫 Let's Connect
+If you're looking for a Data Analyst with a proven record of transforming data into insights and driving tangible business impact — I'd love to connect.
 
-**Gurpreet Singh** | Data Analyst | Python | Power BI | SQL  
-🔗 [LinkedIn](https://linkedin.com/in/gurpreetsingh1998)  
-💻 [GitHub](https://github.com/gurpreet998)  
-🌐 [Portfolio](https://gurpreet-singh-998.vercel.app/)  
-📩 gs268197@gmail.com  
+✉️ Email: gs268197@gmail.com
 
+📱 Mobile: +91 7018320090
+
+🔗 LinkedIn: linkedin.com/in/gurpreetsingh1998
+
+💻 GitHub: github.com/gurpreet998
+
+🌐 Portfolio: gurpreet-singh-998.vercel.app
 ---
 
 ## ⭐ If you found this useful, feel free to star this repository! ⭐
